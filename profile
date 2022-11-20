@@ -896,15 +896,11 @@ pre, code {
 </div>
  
 <!--music url goes between quotation marks of src=""-->
-<!--pick a tutorial:-->
 <!--linktr.ee/direct_file_links-->
 <audio id="tune" src="https://rhizo.gitlab.io/nier/The_Tower__8-bit_.mp3" type="audio"></audio>
  
  
- 
-<!-------CREDIT. PLEASE DON'T BE AN ASSHOLE!------->
-<a id="glenjamin" href="//glenthemes.tumblr.com" title="Page by glenthemes">credit</a>
- 
+  
 </body>
  
 </html>
